@@ -7,7 +7,7 @@ During runtime, the webcam is used to capture live video data, which is processe
 
 It is worth noting that the current version of the project only recognizes the ASL signs A, B, and C, but other signs can be easily added to the model to improve its versatility.
 
-#IMPORTANT NOTE
+## *IMPORTANT NOTE:*
 Instructions for Setting Up Image Data and Running the Code:
 
 To prepare the image data for this project, you need to create a folder named "imageData" exactly as written and then create three subfolders inside it named "A", "B", and "C" (all capitalized).
@@ -19,7 +19,7 @@ Next, you should paste the collected images into the "Teachable Machine" website
 To run the code, you must first download and install the necessary libraries: TensorFlow, NumPy, cvzone, and OpenCV. Once the libraries are installed, you can run the code to detect and recognize the hand signs in real-time using the webcam.
 ![image](https://user-images.githubusercontent.com/123900134/230507559-0efb4f36-e3a5-4b38-bf17-5f2953953076.png)
 
-#FINAL PRODUCT
+## *Final Product:*
 ![image](https://user-images.githubusercontent.com/123900134/230506101-9b3e91fa-0112-4a94-9cc9-82b85a6848ae.png)
 ![image](https://user-images.githubusercontent.com/123900134/230506175-33c6e8e1-9a89-4238-85b6-ee3ebb25186f.png)
 ![image](https://user-images.githubusercontent.com/123900134/230506268-3d945d18-7986-437e-8239-6ea9e681a347.png)
